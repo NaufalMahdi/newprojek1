@@ -5,7 +5,7 @@
                 <p>Credit goes to <strong>Pexels website</strong> for background images and Unsplash website for gallery images used in this Vertex HTML template. Vestibulum quis ultrices ipsum, tempor cursus odio. Donec et nisl sit amet mauris consequat sodales. 
                 </p>
                 <p>
-                    Morbi a sapien vitae nunc mollis efficitur quis eu purus. Donec nec orci pharetra, ullamcorper orci eu, gravida dolor. Morbi at rutrum nibh. Sed a erat vitae ipsum mollis tincidunt sed nec orci.
+                    orbi a sapien vitae nunc mollis efficitur quis eu purus. Donec nec orci pharetra, ullamcorper orci eu, gravida dolor. Morbi at rutrum nibh. Sed a erat vitae ipsum mollis tincidunt sed nec orci.
                 </p>
                 <div class="tm-text-right">
                     <a href="#gallery" class="tm-btn tm-btn-next">Next page</a>

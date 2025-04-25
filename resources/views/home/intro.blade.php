@@ -35,7 +35,7 @@
                     <div class="tm-media-body">
                         <h2><a href="#" class="tm-text-primary">Doctor Nowhere</a></h2>
                         <p class="tm-mb-20 tm-text-small">
-                            This is a custom full-width layout. Gallery page included paging thumbnails with a beautiful hover effect and a larger image pop up in the lightbox.
+                            adalah entity aneh dan menyeramkan.
                         </p>
                         <span class="tm-text-secondary tm-media-span tm-text-small">
                             Wednesday . 16 June 2021
